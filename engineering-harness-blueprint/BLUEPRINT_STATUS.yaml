@@ -8,6 +8,6 @@ harness_release_state: not_released
 target_system_active: false
 active_build_plan: 24_PLANO_MESTRE_DE_CONSTRUCAO_DO_HARNESS.md
 active_work_item: null
-next_required_work_item: H5-01
-next_required_work: Criar lockfile/manifesto de providers, verificação de licença/integridade e install report.
-status_updated_at: "2026-11-21T20:45:00-03:00"
+next_required_work_item: H6-01
+next_required_work: Implementar profiles de capability por executor e modelo.
+status_updated_at: "2026-11-21T21:00:00-03:00"

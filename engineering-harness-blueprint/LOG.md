@@ -160,6 +160,13 @@
   evidence must never become approval. The source run is
   `build/runs/build-20261121-h3-human-review/`.
 
+## 2026-11-21 — H5-01 through H5-18 completed
+
+- Added provider manifest and integration contracts for H5.
+- External providers remain opt-in and honest about unavailable/contract-only state.
+- Added local trace, canonical handoff, skill discovery, publication mapping, Spec Kit mapping, Harness2 evaluation isolation, context assembly and capability matrix.
+- H5 focused tests passed. H6-01 is next.
+
 ## 2026-11-21 — H4-01 through H4-10 completed
 
 - Expanded the source specialist registry and implemented the complete H4 four-pillar workflow.
