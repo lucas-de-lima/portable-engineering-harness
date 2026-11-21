@@ -160,6 +160,14 @@
   evidence must never become approval. The source run is
   `build/runs/build-20261121-h3-human-review/`.
 
+## 2026-11-21 — H6-01 through H6-09 and H7-01 through H7-07 completed
+
+- Implemented H6 security policies and H7 portability contracts as synthetic,
+  evidence-backed artifacts.
+- Native Windows remains the observed primary profile; Linux and WSL2 remain
+  unsupported pending real host probes and separate caches.
+- H6-H7 focused tests and build recovery passed. H8-01 is next.
+
 ## 2026-11-21 — H5-01 through H5-18 completed
 
 - Added provider manifest and integration contracts for H5.
