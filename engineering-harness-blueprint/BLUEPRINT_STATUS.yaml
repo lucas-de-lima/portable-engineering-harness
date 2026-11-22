@@ -6,8 +6,6 @@ implementation_status: complete
 work_mode_default: blueprint_maintenance
 harness_release_state: ready_for_target_use
 release_version: "0.2.0"
-target_system_active: true
-active_target_project_id: louve-mobile-app
 active_build_plan: 24_PLANO_MESTRE_DE_CONSTRUCAO_DO_HARNESS.md
 active_work_item: null
 next_required_work_item: null

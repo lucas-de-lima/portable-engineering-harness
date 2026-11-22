@@ -1,14 +1,5 @@
 # Build Log — Portable Engineering Harness
 
-## 2026-11-21 — Louve legacy target discovery
-
-- Installed the 0.2.0 Harness instance baseline in `M:\Projetos\louve-mobile-app`
-  for read-only legacy discovery.
-- Git remained clean on `main`; no application source or architecture was changed.
-- Recorded the Android/Kotlin/Hilt/Firebase baseline and known sync limitations.
-- Unit-test execution was blocked by missing Android SDK configuration.
-- The target is now `waiting_for_request`; no feature or fix was invented.
-
 ## 2026-11-21 — Ready-for-target-use 0.2.0
 
 - Lucas approved `ready_for_target_use=true`.
