@@ -1,5 +1,11 @@
 # Build Log — Portable Engineering Harness
 
+## 2026-11-21 — Ready-for-target-use 0.2.0
+
+- Lucas approved `ready_for_target_use=true`.
+- The executable source records version 0.2.0 and the explicit provider
+  limitations instead of converting unconfigured integrations to smoke success.
+
 ## 2026-11-21 — H8-12 release-candidate decision
 
 - Lucas selected `release_candidate` version `0.2.0`.

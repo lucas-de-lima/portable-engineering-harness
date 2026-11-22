@@ -84,3 +84,4 @@
 - H8-01 through H8-11 are complete as synthetic integrated E2E validation. The source module and test cover new-system, legacy, four-pillar, reopen, GMUD, dynamic-pipeline, provider collaboration, Harness2, traceability, operations and readiness evidence.
 - H8-12 was decided by Lucas as `release_candidate` version `0.2.0`; `ready_for_target_use=false`. H9 and H10 were a prompt-entry mistake and do not exist in the master plan.
 - Live native-Windows evidence marked CodeGraph 1.6.4 and Graphify 0.9.115 as smoke_verified in temporary fixtures. OmniRoute health was observed, but the exact upstream model route remains unconfigured.
+- Lucas authorized `ready_for_target_use=true` for version 0.2.0. Provider limitations remain explicit: OmniRoute has no model-call smoke, ai-memory is experimental on native Windows, and external benchmarks/skills must be independently provisioned.
