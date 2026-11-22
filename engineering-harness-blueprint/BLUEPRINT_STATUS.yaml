@@ -2,7 +2,7 @@ schema_version: 1
 workspace_kind: blueprint_package
 product_id: portable-engineering-harness
 product_status: ready_for_target_use
-implementation_status: in_progress
+implementation_status: complete
 work_mode_default: blueprint_maintenance
 harness_release_state: ready_for_target_use
 release_version: "0.2.0"

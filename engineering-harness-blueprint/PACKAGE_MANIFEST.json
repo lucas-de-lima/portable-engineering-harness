@@ -136,8 +136,8 @@
                   },
                   {
                       "path":  "BLUEPRINT_STATUS.yaml",
-                      "bytes":  593,
-                      "sha256":  "86c46c0eb8f1da87893f906bd8cefac8bea70bd6253f3a3a4729fa65d40ffbde"
+                      "bytes":  590,
+                      "sha256":  "2faccdde45e7fed7cf5a889643baed65cc3e3273fbb804ffa50e8cb2027aca8d"
                   },
                   {
                       "path":  "diagrams/architecture.mmd",
