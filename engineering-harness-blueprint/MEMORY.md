@@ -85,3 +85,4 @@
 - H8-12 was decided by Lucas as `release_candidate` version `0.2.0`; `ready_for_target_use=false`. H9 and H10 were a prompt-entry mistake and do not exist in the master plan.
 - Live native-Windows evidence marked CodeGraph 1.6.4 and Graphify 0.9.115 as smoke_verified in temporary fixtures. OmniRoute health was observed, but the exact upstream model route remains unconfigured.
 - Lucas authorized `ready_for_target_use=true` for version 0.2.0. Provider limitations remain explicit: OmniRoute has no model-call smoke, ai-memory is experimental on native Windows, and external benchmarks/skills must be independently provisioned.
+- Legacy target pilot: `M:\Projetos\louve-mobile-app` is being analyzed in `managed_target/target_discovery` for Louve. It is waiting for a product request; no source code or architecture was modified. A baseline, memory, log and run/handoff were created and unit-test execution is blocked by missing Android SDK configuration.
