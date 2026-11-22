@@ -1,5 +1,12 @@
 # Build Log — Portable Engineering Harness
 
+## 2026-11-21 — H8-01 through H8-11 completed in executable source
+
+- Added synthetic H8 integrated validation for H8-01 through H8-11.
+- All H1-H8 tests and contract validators pass; H8-12 remains the next item
+  pending explicit Lucas decision on `ready_for_target_use` and release version.
+- Live provider integrations and Linux/WSL2 probes remain unclaimed.
+
 ## 2026-11-19 — Discovery checkpoint
 
 - **Scope:** assessed the blueprint package before beginning implementation.

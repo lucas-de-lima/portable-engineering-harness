@@ -8,6 +8,6 @@ harness_release_state: not_released
 target_system_active: false
 active_build_plan: 24_PLANO_MESTRE_DE_CONSTRUCAO_DO_HARNESS.md
 active_work_item: null
-next_required_work_item: H8-01
-next_required_work: Implementar fixture de sistema novo e validar instalação, ideação, arquitetura e aprovação.
-status_updated_at: "2026-11-21T21:30:00-03:00"
+next_required_work_item: H8-12
+next_required_work: Registrar decisão de Lucas sobre ready_for_target_use e versão de release.
+status_updated_at: "2026-11-21T21:15:00-03:00"
