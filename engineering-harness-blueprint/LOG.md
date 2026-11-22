@@ -1,5 +1,12 @@
 # Build Log — Portable Engineering Harness
 
+## 2026-11-21 — H8-12 release-candidate decision
+
+- Lucas selected `release_candidate` version `0.2.0`.
+- The result remains below `ready_for_target_use`; live provider evidence is
+  required before provider states can be changed from contract-only/unconfigured.
+- H9 and H10 do not exist in the master plan and were removed as an entry error.
+
 ## 2026-11-21 — H8-01 through H8-11 completed in executable source
 
 - Added synthetic H8 integrated validation for H8-01 through H8-11.
