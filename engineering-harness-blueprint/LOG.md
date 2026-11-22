@@ -1,5 +1,14 @@
 # Build Log — Portable Engineering Harness
 
+## 2026-11-21 — Autonomous legacy validation procedure recorded
+
+- Added `25_VALIDACAO_AUTONOMA_DE_PROJETOS_LEGADOS.md`.
+- Documented target identity, isolation, Android/Gradle/Maestro runner flow,
+  infrastructure blockers, persistent evidence, independent review and terminal
+  states.
+- This procedure is the operational reference for future agents; it does not
+  authorize target code changes or provider/model calls by itself.
+
 ## 2026-11-21 — Ready-for-target-use 0.2.0
 
 - Lucas approved `ready_for_target_use=true`.

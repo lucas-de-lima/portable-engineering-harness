@@ -161,18 +161,18 @@
                   },
                   {
                       "path":  "LOG.md",
-                      "bytes":  14175,
-                      "sha256":  "f4974bf6d028bf204b8e5d364097adfb9b45f0b28eb626460d8399a4dc327c48"
+                      "bytes":  14610,
+                      "sha256":  "d244c94d97613af68dacbe526a2b220c9885096d48f4d2acc14bef4bb6e5fe6c"
                   },
                   {
                       "path":  "MEMORY.md",
-                      "bytes":  11058,
-                      "sha256":  "820aa722d09d96e932d417ec3efee4a4bd38f32d6e5a055f186fd89587d15a96"
+                      "bytes":  11406,
+                      "sha256":  "4f99e654dd09c74bb699345d43bba4017f9a4d7ac5eb92f95dd884ea0633805c"
                   },
                   {
                       "path":  "README.md",
-                      "bytes":  9954,
-                      "sha256":  "5a0a6e76595ff96382a6f0a5642e01eb83f2f9a8e7bce6092cfc2473775bdba9"
+                      "bytes":  10104,
+                      "sha256":  "69259a78c3d6e173b2a434b8df9efb312a355371b36f0b77a2bc1cef032bd502"
                   },
                   {
                       "path":  "references/INTEGRATION_NOTES.md",
@@ -183,6 +183,11 @@
                       "path":  "references/SOURCE_CATALOG.md",
                       "bytes":  6080,
                       "sha256":  "417eef7b6bf0061eed0d79e648e64b869b9c2dc09e09316c2158579e061ea9f1"
+                  },
+                  {
+                      "path":  "25_VALIDACAO_AUTONOMA_DE_PROJETOS_LEGADOS.md",
+                      "bytes":  5437,
+                      "sha256":  "ea582a48a37dfce4985c93475373459a4ba228a0fddbe661b8f21ffc6774e8bc"
                   }
               ]
 }
