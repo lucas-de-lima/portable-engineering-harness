@@ -17,7 +17,7 @@
 9. Read the operational design contracts [`15_MODELO_DE_EXECUCAO_E_ADAPTERS.md`](15_MODELO_DE_EXECUCAO_E_ADAPTERS.md) through [`20_POLITICA_DE_SEGURANCA_PORTABILIDADE_E_DEPENDENCIAS.md`](20_POLITICA_DE_SEGURANCA_PORTABILIDADE_E_DEPENDENCIAS.md), then the integrated plan in [`21_ARQUITETURA_INTEGRADA_E_PLANO_DE_IMPLEMENTACAO.md`](21_ARQUITETURA_INTEGRADA_E_PLANO_DE_IMPLEMENTACAO.md).
 10. Before implementing providers or running upstream installers, use [`22_PLANO_DE_AMARRACAO_E_INTEGRACAO_FUNCIONAL.md`](22_PLANO_DE_AMARRACAO_E_INTEGRACAO_FUNCIONAL.md) as the shared-capability and functional-installation contract.
 11. Read [`BLUEPRINT_STATUS.yaml`](BLUEPRINT_STATUS.yaml), [`23_IDENTIDADE_DO_WORKSPACE_E_MODOS_DE_TRABALHO.md`](23_IDENTIDADE_DO_WORKSPACE_E_MODOS_DE_TRABALHO.md), and [`24_PLANO_MESTRE_DE_CONSTRUCAO_DO_HARNESS.md`](24_PLANO_MESTRE_DE_CONSTRUCAO_DO_HARNESS.md) to determine whether work is on the Harness itself and which task comes next.
-12. For autonomous testing of an existing target, use [`25_VALIDACAO_AUTONOMA_DE_PROJETOS_LEGADOS.md`](25_VALIDACAO_AUTONOMA_DE_PROJETOS_LEGADOS.md).
+12. For autonomous testing of an existing target, use [`25_VALIDACAO_AUTONOMA_DE_PROJETOS.md`](25_VALIDACAO_AUTONOMA_DE_PROJETOS.md).
 
 **Precedence:** where original requirements conflict with Lucas's clarified decisions in document 13 or its operational specifications in documents 15–21, the clarified decisions and newer specifications govern. Document 13 marks confirmed choices versus proposals; documents 15–21 do not imply implementation has started.
 

@@ -1,13 +1,12 @@
 # Build Log — Portable Engineering Harness
 
-## 2026-11-21 — Autonomous legacy validation procedure recorded
+## 2026-11-21 — Stack-agnostic autonomous project validation corrected
 
-- Added `25_VALIDACAO_AUTONOMA_DE_PROJETOS_LEGADOS.md`.
-- Documented target identity, isolation, Android/Gradle/Maestro runner flow,
-  infrastructure blockers, persistent evidence, independent review and terminal
-  states.
-- This procedure is the operational reference for future agents; it does not
-  authorize target code changes or provider/model calls by itself.
+- Replaced the former platform-specific legacy procedure with
+  `25_VALIDACAO_AUTONOMA_DE_PROJETOS.md`.
+- The generic procedure covers target identity, isolation, tool discovery,
+  deterministic runners, persistent evidence, independent review and terminal
+  states without prescribing a platform stack.
 
 ## 2026-11-21 — Ready-for-target-use 0.2.0
 

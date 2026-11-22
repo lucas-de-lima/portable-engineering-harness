@@ -86,8 +86,8 @@
 - Live native-Windows evidence marked CodeGraph 1.6.4 and Graphify 0.9.115 as smoke_verified in temporary fixtures. OmniRoute health was observed, but the exact upstream model route remains unconfigured.
 - Lucas authorized `ready_for_target_use=true` for version 0.2.0. Provider limitations remain explicit: OmniRoute has no model-call smoke, ai-memory is experimental on native Windows, and external benchmarks/skills must be independently provisioned.
 
-- The blueprint now includes `25_VALIDACAO_AUTONOMA_DE_PROJETOS_LEGADOS.md`.
-  It defines target-local agent startup, isolation, tool reconciliation,
-  deterministic runners, persistent run evidence, result classification,
-  independent review, terminal states and the exact conditions needed for
-  autonomous Android/Gradle/Maestro verification.
+- The blueprint includes `25_VALIDACAO_AUTONOMA_DE_PROJETOS.md`.
+  It defines a stack-agnostic target-local agent startup, isolation, tool
+  reconciliation, deterministic runners, persistent run evidence, result
+  classification, independent review and terminal states. Platform-specific
+  procedures belong only in target-local runners and adapters.
